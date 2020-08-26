@@ -1,0 +1,20 @@
+{
+  "name": "mis-libros",
+  "version": "1.0.0",
+  "description": "base de datos de mis-libros",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "RuthJimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.7"
+  }
+}
